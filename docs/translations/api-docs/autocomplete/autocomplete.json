@@ -327,7 +327,6 @@
       "nodeName": "the popup indicator",
       "conditions": "the popup is open"
     },
-    "root": { "description": "Styles applied to the root element." },
     "tag": {
       "description": "Styles applied to {{nodeName}}, {{conditions}}.",
       "nodeName": "the tag elements",
@@ -347,6 +346,7 @@
   "slotDescriptions": {
     "listbox": "The component used to render the listbox.",
     "paper": "The component used to render the body of the popup.",
-    "popper": "The component used to position the popup."
+    "popper": "The component used to position the popup.",
+    "root": "The component that renders the root."
   }
 }
