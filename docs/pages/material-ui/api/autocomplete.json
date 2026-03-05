@@ -212,7 +212,7 @@
     "slots": {
       "type": {
         "name": "shape",
-        "description": "{ clearIndicator?: elementType, listbox?: elementType, paper?: elementType, popper?: elementType, popupIndicator?: elementType }"
+        "description": "{ clearIndicator?: elementType, listbox?: elementType, paper?: elementType, popper?: elementType, popupIndicator?: elementType, root?: elementType }"
       },
       "default": "{}"
     },
